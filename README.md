@@ -1,6 +1,6 @@
 hi!
 
-i'm greg, an undergrad at stanford university. i study linguistics and cs. right now I am focused on llm evaluations and superalignment.
+i'm greg, an undergrad at stanford university. i study linguistics and cs. right now I am focused on llm evaluations and alignment.
 
 gregkal[at]stanford[dot]edu
 
